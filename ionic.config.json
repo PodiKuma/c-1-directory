@@ -1,0 +1,7 @@
+{
+  "name": "C1 Directory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
